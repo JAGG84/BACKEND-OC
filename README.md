@@ -2,7 +2,7 @@
 # 🧾 Requerimiento de desarrollo: API REST para plataforma de gestión de órdenes de compra
 
 ### 🧑‍💼 Cliente: COAL Logistics S.A. de C.V.
-### 🧑‍💻 Desarrollador Backend: [Tu nombre]
+### 🧑‍💻 Desarrollador Backend: Juan Alberto García González
 ### 📆 Plazo estimado: 15 días hábiles
 
 ---
